@@ -1,2 +1,10 @@
-# GitGithub_Ejercicio2
-😋 Este es el repositorio del segundo ejercicio del taller Introducción a Git y Github
+# Ejercicio #2 
+
+### Pasos para realizar el ejercicio: 
+
+- Haz un fork de este repo
+- Crea un documento como el que esta de ejemplo: 
+- Llena tus datos 
+- Haz un pull request cuando tengas tu documento listo
+
+### Mucha suerte!
