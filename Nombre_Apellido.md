@@ -1,8 +1,8 @@
-# Hola! Me llamo *John Doe*
+# Hola! Me llamo Julio Ceballos
 
-- A mi me gusta jugar videojuegos como Stardew Valley y Hollow Knight!
+- A mi me gusta jugar videojuegos como Mario Kart, LoL, Minecraft, Pikmín, FNAF, etc.
 
-- Me gustaría aprender acerca de *desarrollo web* y d*esarrollo de aplicaciones*
+- Me gustaría aprender acerca de desarrollo de videojuegos y programación
 
-> Mi materia favorita es *Fundamentos de Ingeniería de Software*
+> Mi materia favorita es Algoritmia
 
